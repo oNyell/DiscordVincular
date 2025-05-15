@@ -12,8 +12,8 @@ Plugin para servidores Minecraft (BungeeCord) que permite vincular contas do Min
 
 ## Comandos
 
-- `/discorde vincular` - Gera um link para vincular a conta do Discord
-- `/discorde desvincular` - Remove a vinculação atual da conta
+- `/discord vincular` - Gera um link para vincular a conta do Discord
+- `/discord desvincular` - Remove a vinculação atual da conta
 
 ## Configuração
 
