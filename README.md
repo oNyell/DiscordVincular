@@ -42,4 +42,7 @@ Desenvolvido por:
 - [oNyell](https://github.com/oNyell) <- GitHub
 - onyell <- Discord
 
+Vídeo demonstração:
+- https://www.youtube.com/watch?v=-SCb4UGJVQE&ab_channel=oNyell
+
 Favor manter os créditos ao utilizar este plugin.
